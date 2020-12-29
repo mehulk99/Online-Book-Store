@@ -22,7 +22,7 @@ Responsive layout for extra small, Large Medium devices and browsers(ofcourse)
 # Product info to be shown when user clicks on any book from booklist
 ![](screenshots/product-info.png)
 
-# Order page when user has ordred books after payments process
+# Order page when user has ordered books after payments process
 ![](screenshots/orderlist.png)
 
 # Cart details when user had few items in cart
