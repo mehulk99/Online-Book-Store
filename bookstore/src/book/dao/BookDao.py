@@ -1,7 +1,7 @@
 '''
 Created on 14-May-2019
 
-@author: mehulk_99
+@author: mehulk99
 '''
 
 from flask import jsonify
